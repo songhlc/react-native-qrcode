@@ -1,3 +1,14 @@
+# fork from https://github.com/cssivision/react-native-qrcode
+## new feature 
+support react-native 0.64.0
+```
+// old
+import {WebView} from 'react-native
+
+// new
+import { WebView } from "react-native-webview"
+```
+
 # THIS PROJECT IS NO LONGER MAINTAINED
 
 # react-native-qrcode
